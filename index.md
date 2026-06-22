@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -158,14 +157,7 @@ window.addEventListener('scroll', function() {
         <h2>Reducing Communication Overhead</h2>
         <p>The biggest hidden cost of multi-team releases is communication overhead. Every team needs visibility into the others without needing to join every standup. A shared, automatically updated release view reduces the need for status-update meetings and lets engineers focus on shipping rather than reporting.</p>
         
-        <p>For a deeper look at how to set up and manage releases that span multiple Jira projects, see Apwide's guide on  <b><a href="https://www.apwide.com/cross-project-releases/">cross project releases in Jira</b></a>.</p>  
+        <p>For a deeper look at how to set up and manage releases that span multiple Jira projects, see Apwide's guide on <a href="https://www.apwide.com/cross-project-releases/">cross project releases in Jira</a></p>.  
 
        <h2>Final Thoughts</h2>
-       <p>Cross-project releases are where release management complexity really shows up. The teams that handle this well do not rely on memory or goodwill - they build a shared source of truth that every project can plug into, turning a coordination headache into a predictable, repeatable process.</p>
-
-    </div>
-
-</div>
-
-</body>
-</html>
+       <p>Cross-project releases are where release management complexity really shows up. The teams that handle this well do not rely on memory or goodwill - they build a shared source of truth that every project can plug into, turning a coordination headache into a predictable, repeatable process.</p> 
